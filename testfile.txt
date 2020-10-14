@@ -1,2 +1,2 @@
 this file is to test push command
-
+this to test gui commit and merge
